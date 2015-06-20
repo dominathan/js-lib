@@ -1,0 +1,19 @@
+{
+  "name": "js-lib",
+  "version": "0.0.0",
+  "authors": [
+    "Nathan Hall <nathan.mh@gmail.com>"
+  ],
+  "description": "bldg test library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
